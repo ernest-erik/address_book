@@ -7,3 +7,4 @@ This application can:
   * Delete existing addresses
 
  This application can not permanentely save addresses yet.
+ However, in the future I plan to use broweser's local storage as a persistent storage.
